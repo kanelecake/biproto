@@ -1,0 +1,13 @@
+{
+  "name": "biproto",
+  "version": "1.0.0",
+  "main": "src/index.ts",
+  "license": "MIT",
+  "dependencies": {
+    "object-sizeof": "^2.6.4"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.6",
+    "typescript": "^5.3.3"
+  }
+}
